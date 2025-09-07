@@ -1,4 +1,4 @@
-module github.com/yourname/securefs-go
+module github.com/japinder12/securefs-go
 
 go 1.20
 

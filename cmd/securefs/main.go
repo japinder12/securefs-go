@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/yourname/securefs-go/pkg/securefs"
+	"github.com/japinder12/securefs-go/pkg/securefs"
 )
 
 func main() {
@@ -110,7 +110,7 @@ func main() {
 }
 
 func usage() {
-	fmt.Println(`securefs CLI
+	fmt.Print(`securefs CLI
 Usage:
   securefs signup  --user U --pass P
   securefs login   --user U --pass P

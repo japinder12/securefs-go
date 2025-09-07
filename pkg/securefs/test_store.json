@@ -1,0 +1,28 @@
+{
+  "Secret": "WTOTCxQxZtnwcdy27UzvQM5JFyMECCwJPq4Y1cn3Zmk=",
+  "Users": {
+    "alice": {
+      "Username": "alice",
+      "Salt": "OUxia9fDinm4SOjENalDfg==",
+      "EncUser": "kq9SN8BJlM8wXP1I9gn7HlJbMxr8TZvCpxFujG4qFS5o5dhe3+b6FMplP4yja1OzPCesyvxCCJHCMhnSVm4zikNec0PtZeHuf4bE8w8h4MmAvk+rA+Zt9HBNyyAW6Q=="
+    },
+    "bob": {
+      "Username": "bob",
+      "Salt": "n0KfL3QRqIVlCJG6I5FtOg==",
+      "EncUser": "jJyQENQMaLJj0I98/GRO80uD7ce15aiKHzdLggOCnNyVb13kzJGfbZz/luW2ck/E+F7yYsIx+IRNONfhTzR+AvcxvayI58QvmTrZrbAWM/KUsGcNR/n5OFfa2yJJdm3Ulz99"
+    }
+  },
+  "Files": {
+    "60eeeb34-289b-47b6-8158-742cdd792ed4": {
+      "Key": "6EI6pbhanjofS14oPDnuKTdon7W3et6iPblx7dx4h4I=",
+      "Chunks": [
+        "7c37b907-1a05-435d-99b1-b65aca7ea30e",
+        "1b39ba68-d5ed-4424-b77f-41ff5910cfea"
+      ]
+    }
+  },
+  "Chunks": {
+    "1b39ba68-d5ed-4424-b77f-41ff5910cfea": "z2oGDovZvbNO9SESSfUCTPbujOcUdGfVPCh8vPuDildDDA==",
+    "7c37b907-1a05-435d-99b1-b65aca7ea30e": "zgLMfjk0PJlAvXpnJ2/sI3Q8Nn7k/fgnQyW7Yzm/o6YG"
+  }
+}
