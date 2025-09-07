@@ -43,6 +43,3 @@ go run ./cmd/securefs revoke    --user alice --pass secret --name notes.txt
 
 ## Attribution
 This project is *inspired by* the **CS161 Project 2** client API objectives. The original course spec and userlib are © UC Berkeley CS161 staff. This repo is an independent, from‑scratch re‑implementation for educational/portfolio purposes.
-
-## License
-MIT
