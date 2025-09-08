@@ -14,7 +14,7 @@ Inspired by UC Berkeley CS161 (Project 2) objectives; implemented from scratch f
 
 ## Quick Start
 ```bash
-git clone https://github.com/yourname/securefs-go
+git clone https://github.com/<username>/securefs-go
 cd securefs-go
 
 # Run tests
